@@ -10,7 +10,7 @@ This project is a ReactJS application designed to load quotes by leveraging an e
 
 You can view the live application by following this link.
 
-🌎[Link Site]()
+🌎[Link Site](https://random-quote-jet-seven.vercel.app/)
 
 ## Utilized Technologies
 
